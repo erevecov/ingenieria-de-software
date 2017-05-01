@@ -68,7 +68,7 @@ if(!$_SESSION['userVars']) {
 <script>
 
   var room = "masaje tailandes";
-  var socket = io('http://localhost:3000');
+  var socket = io('http://168.232.165.15:3000');
 
   socket.on('connect', function(){
     $('#logo').css('color', '#00C853');
