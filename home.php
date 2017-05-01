@@ -63,7 +63,7 @@ if(!$_SESSION['userVars']) {
 <script src='assets/sweetalert2.min.js'></script>
 <script src='assets/fullcalendar/fullcalendar.js'></script>
 <script src='assets/fullcalendar/locale/es.js'></script>
-<script src='http://localhost:3000/socket.io/socket.io.js'></script>
+<script src='http://168.232.165.15:3000/socket.io/socket.io.js'></script>
 
 <script>
 
